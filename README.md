@@ -1,7 +1,7 @@
 ### rocket: About Me :
 
 <p align="center">
-  <img src="https://i.ibb.co/YZ8tLPf/IMG-20240222-WA0139.jpg" />
+  <img src="https://postimg.cc/zyc7cPmg" />
 </p>
 
 - 👋 Hi, I’m Darrell Mucheri
@@ -23,44 +23,44 @@
 
 ---
 
-### :unicorn: Donate Me :
+### 🚀: Donate Me :
 
-- [`Binance`](https://i.ibb.co/W2gYn6S/binance.png)
-- [`PayPal`](https://www.paypal.me/josephxeon13)
-- [`GooglePay`](https://i.ibb.co/yQkqBS2/donate.png)
-- [`FamPay`](https://i.ibb.co/w46VQ8D/Picsart-22-10-08-06-46-30-674.jpg)
+- [`Binance`](https://)
+- [`PayPal`](https://www.paypal.me/)
+- [`GooglePay`](https://)
+- [`FamPay`](mmm)
 
 ---
 
 ### :unicorn: My Stats :
-<p align="center"><a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a></p>
-<p align="center"><a href="https://komarev.com/ghpvc/?username=DGXeon&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=DGXeon&color=green&style=flat-square&label=Profile+View"></a>
+<p align="center"><a href="https://github.com/MrFr3nk/followers"><img title="Followers" src="https://img.shields.io/github/followers/MrFr3nk?color=red&style=flat-square"></a></p>
+<p align="center"><a href="https://komarev.com/ghpvc/?username=MrFr3nk&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=MrFr3nk&color=green&style=flat-square&label=Profile+View"></a>
 </p>
-<p align="center"><a href="https://github.com/DGXeon"><img src="https://github-readme-stats.vercel.app/api?username=DGXeon&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/DGXeon"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DGXeon&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/MrFr3nk"><img src="https://github-readme-stats.vercel.app/api?username=MrFr3nk&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/MrFr3nk"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrFr3nk&theme=radical&layout=compact"></a></p>
 
 ---
 
 ### :unicorn: Repo Stats : 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=DGXeon&repo=CheemsBot-MD4&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=MrFr3nk&repo=CheemsBot-MD4&theme=radical)
 
 ---
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=DGXeon)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=MrFr3nk)
 
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/DGXeon?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKolkata)
+![Metrics](https://metrics.lecoq.io/MrFr3nk?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FKolkata)
 
 </details> 
 
 <!---
-DreamGuyXeon/DreamGuyXeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DxTku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
