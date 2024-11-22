@@ -1,14 +1,14 @@
-### :unicorn: About Me :
+### rocket: About Me :
 
 <p align="center">
   <img src="https://i.ibb.co/YZ8tLPf/IMG-20240222-WA0139.jpg" />
 </p>
 
-- 👋 Hi, I’m josephxeon
+- 👋 Hi, I’m Darrell Mucheri
 - ❎ I am just a student (Beginner)
 - 👨🏻‍🦱 17 years old
-- 🇮🇳 Currently living in India, Northeast, Mizoram
-- 🌱 Studying Diploma In Computer Science And Engineering, At NIELIT, AIZAWL
+- 🇿🇼 Currently living in Zimbabwe, Harare, Chitungwiza
+- 🌱 Studying O level, At St Marys High
 
 ---
 
