@@ -6,19 +6,19 @@
 
 - 👋 Hi, I’m Darrell Mucheri
 - ❎ I am just a student (Beginner)
-- 👨🏻‍🦱 17 years old
+- 👨🏻‍🦱 17 years old, 18 october
 - 🇿🇼 Currently living in Zimbabwe, Harare, Chitungwiza
 - 🌱 Studying O level, At St Marys High
 
 ---
 
-### :unicorn: How To Reach Me :
+### :rocket: How To Reach Me :
 <p align="center">
-<a href="https://youtube.com/@DGXeon"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
-<a href="https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20" /><br>
-<a href="https://t.me/xeonbotinc"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
-<a href="https://chat.whatsapp.com/Kjm8rnDFcpb04gQNSTbW2d"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://www.instagram.com/unicorn_xeon13?igsh=MzNlNGNkZWQ4Mg=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://youtube.com/@mrfr4nk"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@mrfr4nk" /><br>
+<a href="https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D" /><br>
+<a href="https://t.me/mrfrankofc"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VagQEmB002T7MWo3Sj1D"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.instagram.com/mrfrankofc"><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 ---
 
-### :unicorn: My Stats :
+### 🚀: My Stats :
 <p align="center"><a href="https://github.com/MrFr3nk/followers"><img title="Followers" src="https://img.shields.io/github/followers/MrFr3nk?color=red&style=flat-square"></a></p>
 <p align="center"><a href="https://komarev.com/ghpvc/?username=MrFr3nk&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=MrFr3nk&color=green&style=flat-square&label=Profile+View"></a>
 </p>
@@ -41,7 +41,7 @@
 
 ---
 
-### :unicorn: Repo Stats : 
+### 🚀: Repo Stats : 
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=MrFr3nk&repo=CheemsBot-MD4&theme=radical)
 
 ---
