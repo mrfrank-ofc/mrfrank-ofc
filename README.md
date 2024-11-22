@@ -1,7 +1,7 @@
-### rocket: About Me :
+### :rocket: About Me :
 
 <p align="center">
-  <img src="https://postimg.cc/zyc7cPmg">
+  <img src="(https://i.postimg.cc/zfJQ3900/headmaster1.jpg)">
 </p>
 
 - 👋 Hi, I’m Darrell Mucheri
