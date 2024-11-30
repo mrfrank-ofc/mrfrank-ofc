@@ -18,13 +18,12 @@
 
 - 🤝 I’m looking for help with [Results-Portal](https://github.com/ZwSyntax/Results-Portal)
 
-- 📝 I regularly write articles on [https://darrel-mucheri@gmail.com](https://darrel-mucheri@gmail.com)
 
-- 💬 Ask me about **React & Html**
+- 💬 Ask anything about **React & Html**
 
 - 📫 How to reach me **darrelmucheri@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/mucheri-inc.vercel.app](https://github.com/mucheri-inc.vercel.app)
+- 📄 Know about my experiences on my portifolio [https://github.com/mucheri-inc.vercel.app](https://github.com/mucheri-inc.vercel.app)
 
 - ⚡ Fun fact **I think I am funny🤣🤙**
 
