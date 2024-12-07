@@ -23,7 +23,7 @@
 - 📫 How to reach me **darrelmucheri@gmail.com**
 
 
-- 📄 Know about my experiences on my portifolio [https://github.com/mucheri-inc.vercel.app](https://github.com/mucheri-inc.vercel.app)
+- 📄 Know about my experiences on my portifolio [https://github.com/mucheri-inc.vercel.app](https://mrfrankinc.vercel.app)
 
 
   # ⚡ Fun fact **I am funny😂🤙**
