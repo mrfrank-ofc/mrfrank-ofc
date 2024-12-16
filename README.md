@@ -134,5 +134,5 @@ I'm always open to new opportunities and collaborations, so feel free to get in 
 
 <br/>
 
-<img alt="Darrell's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mrfrank-ofc&bg_color=1f222e&color=f2d364&line=f85d7f&point=fc9867&area=true&hide_border=true)]
+<img alt="Darrell's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=mrfrank-ofc&bg_color=1f222e&color=f2d364&line=f85d7f&point=fc9867&area=true&hide_border=true">
 
