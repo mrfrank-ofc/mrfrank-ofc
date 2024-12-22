@@ -26,7 +26,7 @@
 
 ### About Me
 
-I'm passionate about Web Development, Data Science, and Game Development and I love using technology to create innovative solutions that solve real-world problems. I have experience working on Web Development and I'm always eager to learn new skills.
+I'm Darrell Mucheri aka Mr Frank OFC passionate about Web Development, Data Science, and Game Development and I love using technology to create innovative solutions that solve real-world problems. I have experience working on Web Development and I'm always eager to learn new skills.
 
 If you're interested in my professional experience and skills, you can check out my resume.
 
