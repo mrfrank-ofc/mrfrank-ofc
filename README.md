@@ -28,11 +28,13 @@
 
 I'm Darrell Mucheri aka Mr Frank OFC passionate about Web Development, Data Science, and Game Development and I love using technology to create innovative solutions that solve real-world problems. I have experience working on Web Development and I'm always eager to learn new skills.
 
-If you're interested in my professional experience and skills, you can check out my resume.
+If you're interested in my professional experience and skills, you can check out my resume & website below.
 
 [![Resume](https://img.shields.io/badge/Darrell%20Mucheri-RESUME-blue?style=for-the-badge&labelColor=1DA1F2&color=5865f2&logoColor=white)](https://mrfrankinc.vercel.app)
 
 <br/>
+### My WebSite
+## <a href="https://mrfrankinc.vercel.app">Click Here</a><br>
 
 ### Recent Projects
 
@@ -41,7 +43,7 @@ On my GitHub, you'll find a variety of projects that showcase my skills and inte
 [E Commerce Website](https://mrfrankinc.vercel.app/projects.html): An online website where users can order and buy goods.<br/>
 [Cake Recipes App](https://mrfrankinc.vercel.app/projects.html): A recipe website where users can discover recipes and food blogs. Pro users can add their own recipes and food blogs.<br/>
 [Talkify](https://github.com/Avinash905/HealthBooker): This is a chatring platform where you can chat & connect with  your loved ones, manage profiles, and send pics & videos.<br/>
-
+### For Click <a href="https://mrfrankinc.vercel.app">Here</><br>
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Get in Touch
 
 I'm always open to new opportunities and collaborations, so feel free to get in touch with me. Let's build something great together!
