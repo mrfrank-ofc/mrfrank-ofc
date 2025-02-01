@@ -35,17 +35,18 @@ If you're interested in my professional experience and skills, you can check out
 <br>
 
 
-# My Portifolio
+### My Portifolio
 </br><a href="https://mrfrankinc.vercel.app">Click Here</a>
 <br>
-
-### Recent Projects
+</br>
+----------------
+# Recent Projects
 
 On my GitHub, you'll find a variety of projects that showcase my skills and interests. Some of my recent projects include:
 
 [E Commerce Website](https://e-commerce-mr-frank.vercel.app/): An online website where users can order and buy goods.<br/>
 [Cake Recipes App](https://mrfrankinc.vercel.app/projects.html): A recipe website where users can discover recipes and food blogs. Pro users can add their own recipes and food blogs.<br/>
-[Chatify](https://chatify-test.onrender.com): This is a chatring platform where you can chat & connect with  your loved ones, manage profiles, and send pics & videos.<br/>
+[Chatify](https://chatify-test.onrender.com): This is a chatring platform where you can chat & connect with  your loved ones, manage profiles, and send pics & videos.--------<br/>
 ### For More Projects Click <a href="https://mrfrankinc.vercel.app">Here<a/><br>
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Get in Touch
 
